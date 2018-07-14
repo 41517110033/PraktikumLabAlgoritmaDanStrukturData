@@ -69,7 +69,7 @@ void Cetak(Mahasiswa *mhs, int jumData){
     printf("======================================");
 }
 
-main(){
+              main(){
     int jumData;
     Mahasiswa *mhs;
     printf("Masukan Jumlah Data : ");scanf("%i",&jumData);
